@@ -1,0 +1,230 @@
+﻿  Running VPC CRC Check - mathlib.vpc
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  3dnow.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  almostequal.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  anorms.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  bumpvects.cpp
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(36): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(38): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(38): error C2065: '_emit' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(38): error C2143: syntax error : missing ';' before 'constant'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(38): error C2143: syntax error : missing ';' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(38): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(39): error C2065: 'movd' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(39): error C2146: syntax error : missing ';' before identifier 'mm0'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(39): error C2065: 'mm0' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(40): error C2143: syntax error : missing '}' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(40): error C2064: term does not evaluate to a function taking 1 arguments
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(40): error C2143: syntax error : missing ';' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(40): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(40): error C2065: '_emit' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(40): error C2143: syntax error : missing ';' before 'constant'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(40): error C3861: '_emit': identifier not found
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(40): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(41): error C2065: 'punpckldq' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(41): error C2146: syntax error : missing ';' before identifier 'mm0'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(41): error C2065: 'mm0' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(42): error C2065: 'mm0' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(42): error C2143: syntax error : missing '}' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(42): error C2143: syntax error : missing ';' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(42): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(42): error C2065: '_emit' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(42): error C2143: syntax error : missing ';' before 'constant'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(42): error C3861: '_emit': identifier not found
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(42): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(43): error C2146: syntax error : missing ';' before identifier 'root'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(44): error C2143: syntax error : missing '}' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(44): error C2143: syntax error : missing ';' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(44): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(44): error C2059: syntax error : '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(45): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(45): error C2059: syntax error : '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(62): error C2059: syntax error : '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(62): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(67): error C2143: syntax error : missing ';' before '{'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(67): error C2447: '{' : missing function header (old-style formal list?)
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(83): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(85): error C2065: 'mov' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(85): error C2146: syntax error : missing ';' before identifier 'eax'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(85): error C2065: 'eax' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(86): error C2143: syntax error : missing '}' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(86): error C2064: term does not evaluate to a function taking 1 arguments
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(86): error C2143: syntax error : missing ';' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(86): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(86): error C2065: '_emit' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(86): error C2143: syntax error : missing ';' before 'constant'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(86): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(87): error C2065: 'movq' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(87): error C2146: syntax error : missing ';' before identifier 'mm0'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(87): error C2065: 'QWORD' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(87): error C2146: syntax error : missing ';' before identifier 'PTR'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(87): error C2065: 'PTR' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(87): error C2065: 'eax' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(88): error C2146: syntax error : missing ';' before identifier 'movd'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(88): error C2146: syntax error : missing ';' before identifier 'mm1'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(88): error C2065: 'mm1' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(88): error C2065: 'DWORD' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(88): error C2146: syntax error : missing ';' before identifier 'PTR'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(88): error C2065: 'PTR' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(88): error C2065: 'eax' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(89): error C2146: syntax error : missing ';' before identifier 'movq'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(89): error C2065: 'movq' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(89): error C2146: syntax error : missing ';' before identifier 'mm2'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(89): error C2065: 'mm2' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(90): error C2146: syntax error : missing ';' before identifier 'movq'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(90): error C2065: 'movq' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(90): error C2146: syntax error : missing ';' before identifier 'mm3'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(90): error C2065: 'mm3' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(91): error C2065: 'mm1' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(91): error C2143: syntax error : missing '}' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(91): error C2143: syntax error : missing ';' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(91): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(91): error C2065: '_emit' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(91): error C2143: syntax error : missing ';' before 'constant'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(91): error C3861: '_emit': identifier not found
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(91): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(92): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(92): error C2065: '_emit' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(92): error C2143: syntax error : missing ';' before 'constant'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(92): error C2143: syntax error : missing ';' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(92): error C3861: '_emit': identifier not found
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(92): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(93): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(93): error C2065: '_emit' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(93): error C2143: syntax error : missing ';' before 'constant'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(93): error C2143: syntax error : missing ';' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(93): error C3861: '_emit': identifier not found
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(93): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(94): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(94): error C2065: '_emit' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(94): error C2143: syntax error : missing ';' before 'constant'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(94): error C2143: syntax error : missing ';' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(94): error C3861: '_emit': identifier not found
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(94): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(95): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(95): error C2065: '_emit' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(95): error C2143: syntax error : missing ';' before 'constant'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(95): error C2143: syntax error : missing ';' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(95): error C3861: '_emit': identifier not found
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(95): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(96): error C2065: 'punpckldq' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(96): error C2146: syntax error : missing ';' before identifier 'mm1'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(96): error C2065: 'mm1' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(97): error C2065: 'mm1' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(97): error C2143: syntax error : missing '}' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(97): error C2143: syntax error : missing ';' before '__asm'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(97): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(97): error C2065: '_emit' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(97): error C2143: syntax error : missing ';' before 'constant'
+c:\thundersleavessource\sp\src\mathlib\3dnow.cpp(97): fatal error C1003: error count exceeds 100; stopping compilation
+  color_conversion.cpp
+  halton.cpp
+  IceKey.cpp
+  imagequant.cpp
+  lightdesc.cpp
+  mathlib_base.cpp
+  polyhedron.cpp
+  powsse.cpp
+  quantize.cpp
+  randsse.cpp
+  simdvectormatrix.cpp
+  sparse_convolution_noise.cpp
+  spherical.cpp
+  sse.cpp
+  sseconst.cpp
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(91): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(93): error C2065: 'sqrtss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(93): error C2146: syntax error : missing ';' before identifier 'xmm0'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(93): error C2065: 'xmm0' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(94): error C2146: syntax error : missing ';' before identifier 'movss'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(94): error C2065: 'movss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(94): error C2146: syntax error : missing ';' before identifier 'root'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(95): error C2065: 'xmm0' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(95): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(135): error C4235: nonstandard extension used : '__asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(137): error C2065: 'movss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(137): error C2146: syntax error : missing ';' before identifier 'xmm3'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(137): error C2065: 'xmm3' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(138): error C2065: 'movss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(138): error C2146: syntax error : missing ';' before identifier 'xmm1'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(138): error C2065: 'xmm1' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(139): error C2065: 'movss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(139): error C2146: syntax error : missing ';' before identifier 'xmm2'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(139): error C2065: 'xmm2' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(140): error C2065: 'rsqrtss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(140): error C2146: syntax error : missing ';' before identifier 'xmm0'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(140): error C2065: 'xmm0' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(140): error C2065: 'xmm3' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(142): error C2065: 'mulss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(142): error C2146: syntax error : missing ';' before identifier 'xmm3'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(142): error C2065: 'xmm3' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(142): error C2065: 'xmm0' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(143): error C2065: 'mulss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(143): error C2146: syntax error : missing ';' before identifier 'xmm1'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(143): error C2065: 'xmm1' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(143): error C2065: 'xmm0' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(144): error C2065: 'mulss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(144): error C2146: syntax error : missing ';' before identifier 'xmm3'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(144): error C2065: 'xmm3' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(144): error C2065: 'xmm0' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(145): error C2065: 'subss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(145): error C2146: syntax error : missing ';' before identifier 'xmm2'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(145): error C2065: 'xmm2' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(145): error C2065: 'xmm3' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(146): error C2065: 'mulss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(146): error C2146: syntax error : missing ';' before identifier 'xmm1'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(146): error C2065: 'xmm1' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(146): error C2065: 'xmm2' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(148): error C2065: 'movss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(148): error C2146: syntax error : missing ';' before identifier 'x'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(148): error C2065: 'xmm1' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(180): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(182): error C2065: 'rsqrtss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(182): error C2146: syntax error : missing ';' before identifier 'xmm0'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(182): error C2065: 'xmm0' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(183): error C2146: syntax error : missing ';' before identifier 'movss'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(183): error C2065: 'movss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(183): error C2146: syntax error : missing ';' before identifier 'rroot'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(184): error C2065: 'xmm0' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(184): error C2143: syntax error : missing ';' before '}'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(215): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(217): error C2065: 'mov' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(217): error C2146: syntax error : missing ';' before identifier 'eax'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(217): error C2065: 'eax' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(218): error C2146: syntax error : missing ';' before identifier 'mov'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(218): error C2065: 'mov' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(218): error C2146: syntax error : missing ';' before identifier 'edx'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(218): error C2065: 'edx' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(223): error C2146: syntax error : missing ';' before identifier 'movups'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(223): error C2065: 'movups' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(223): error C2146: syntax error : missing ';' before identifier 'xmm4'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(223): error C2065: 'xmm4' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(223): error C3481: 'eax': lambda capture variable not found
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(224): error C2061: syntax error : identifier 'movaps'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(267): error C3493: 'vec' cannot be implicitly captured because no default capture mode has been specified
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(267): error C3493: 'result' cannot be implicitly captured because no default capture mode has been specified
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(273): error C3493: 'radius' cannot be implicitly captured because no default capture mode has been specified
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(289): error C4235: nonstandard extension used : '_asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(290): error C2065: 'mov' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(290): error C2146: syntax error : missing ';' before identifier 'eax'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(290): error C2065: 'eax' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(291): error C3493: 'v' cannot be implicitly captured because no default capture mode has been specified
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(291): error C2146: syntax error : missing ';' before identifier 'movss'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(291): error C2065: 'movss' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(291): error C2146: syntax error : missing ';' before identifier 'xmm5'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(291): error C2065: 'xmm5' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(295): error C2146: syntax error : missing ';' before identifier 'movups'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(295): error C2065: 'movups' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(295): error C2146: syntax error : missing ';' before identifier 'xmm4'
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(295): error C2065: 'xmm4' : undeclared identifier
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(295): error C3481: 'eax': lambda capture variable not found
+c:\thundersleavessource\sp\src\mathlib\sse.cpp(295): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  ssenoise.cpp
+  vector.cpp
+  vmatrix.cpp

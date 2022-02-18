@@ -1,0 +1,27 @@
+﻿  Running VPC CRC Check - vgui_controls.vpc
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  AnalogBar.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  AnimatingImagePanel.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  AnimationController.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  BitmapImagePanel.cpp
+c:\thundersleavessource\sp\src\public\tier1\mempool.h(143): error C2338: Compile time assert constraint is not true: sizeof(CUtlMemoryPool) == 48 (AnimationController.cpp)
+          c:\thundersleavessource\sp\src\public\tier1\mempool.h(138) : while compiling class template member function 'CClassMemoryPool<PanelAnimationMap>::CClassMemoryPool(int,int,int)'
+          c:\thundersleavessource\sp\src\vgui2\vgui_controls\animationcontroller.cpp(1507) : see reference to function template instantiation 'CClassMemoryPool<PanelAnimationMap>::CClassMemoryPool(int,int,int)' being compiled
+          c:\thundersleavessource\sp\src\vgui2\vgui_controls\animationcontroller.cpp(1528) : see reference to class template instantiation 'CClassMemoryPool<PanelAnimationMap>' being compiled
+  BuildFactoryHelper.cpp
+  BuildGroup.cpp
+  BuildModeDialog.cpp
+  Button.cpp
+  CheckButton.cpp
+  CheckButtonList.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\buildmodedialog.cpp(1324): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\buildmodedialog.cpp(1324): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+  CircularProgressBar.cpp
+  ComboBox.cpp
+  consoledialog.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\circularprogressbar.cpp(122): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\circularprogressbar.cpp(122): warning C4267: '+=' : conversion from 'size_t' to 'int', possible loss of data

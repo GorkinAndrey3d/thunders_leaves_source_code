@@ -1,0 +1,37 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  stdafx.cpp
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1166): error C4235: nonstandard extension used : '__asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1168): error C2065: 'mov' : undeclared identifier
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1168): error C2146: syntax error : missing ';' before identifier 'esi'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1168): error C2065: 'esi' : undeclared identifier
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1169): error C2146: syntax error : missing ';' before identifier 'mov'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1169): error C2065: 'mov' : undeclared identifier
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1169): error C2146: syntax error : missing ';' before identifier 'edi'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1169): error C2065: 'edi' : undeclared identifier
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1171): error C2146: syntax error : missing ';' before identifier 'movq'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1171): error C2065: 'movq' : undeclared identifier
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1171): error C2146: syntax error : missing ';' before identifier 'mm0'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1171): error C2065: 'mm0' : undeclared identifier
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1171): error C2143: syntax error : missing ']' before '+'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1171): error C3481: 'esi': lambda capture variable not found
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1171): error C2059: syntax error : ']'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1226): error C4235: nonstandard extension used : '__asm' keyword not supported on this architecture
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1171): error C2059: syntax error : '+'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1209): warning C4573: the usage of 'CVertexBuilder::m_pCurrPosition' requires the compiler to capture 'this' but the current default capture mode does not allow it
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1209): warning C4573: the usage of 'VertexDesc_t::m_VertexSize_Position' requires the compiler to capture 'this' but the current default capture mode does not allow it
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1224): error C3493: 'vertex' cannot be implicitly captured because no default capture mode has been specified
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1225): warning C4573: the usage of 'CVertexBuilder::m_pCurrPosition' requires the compiler to capture 'this' but the current default capture mode does not allow it
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1228): error C2065: 'mov' : undeclared identifier
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1228): error C2146: syntax error : missing ';' before identifier 'esi'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1228): error C2065: 'esi' : undeclared identifier
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1229): error C2146: syntax error : missing ';' before identifier 'mov'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1229): error C2065: 'mov' : undeclared identifier
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1229): error C2146: syntax error : missing ';' before identifier 'edi'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1229): error C2065: 'edi' : undeclared identifier
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1231): error C2146: syntax error : missing ';' before identifier 'movaps'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1231): error C2065: 'movaps' : undeclared identifier
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1231): error C2146: syntax error : missing ';' before identifier 'xmm0'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1231): error C2065: 'xmm0' : undeclared identifier
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1231): error C2143: syntax error : missing ']' before '+'
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1231): error C3481: 'esi': lambda capture variable not found
+c:\thundersleavessource\sp\src\public\materialsystem\imesh.h(1231): fatal error C1903: unable to recover from previous error(s); stopping compilation

@@ -1,0 +1,76 @@
+﻿  Running VPC CRC Check - tier1.vpc
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  bitbuf.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  byteswap.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  characterset.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  checksum_crc.cpp
+  checksum_md5.cpp
+  checksum_sha1.cpp
+  commandbuffer.cpp
+c:\thundersleavessource\sp\src\tier1\bitbuf.cpp(941): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\tier1\bitbuf.cpp(941): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+  convar.cpp
+  datamanager.cpp
+  diff.cpp
+  generichash.cpp
+  ilocalize.cpp
+  interface.cpp
+  KeyValues.cpp
+  kvpacker.cpp
+  lzmaDecoder.cpp
+  mempool.cpp
+  memstack.cpp
+c:\thundersleavessource\sp\src\tier1\keyvalues.cpp(728): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\tier1\keyvalues.cpp(728): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+  NetAdr.cpp
+c:\thundersleavessource\sp\src\tier1\keyvalues.cpp(1585): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\keyvalues.cpp(1831): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\keyvalues.cpp(2650): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\keyvalues.cpp(2656): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\mempool.cpp(271): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\tier1\mempool.cpp(271): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+  newbitbuf.cpp
+  rangecheckedvar.cpp
+  reliabletimer.cpp
+  snappy-sinksource.cpp
+  snappy-stubs-internal.cpp
+  snappy.cpp
+  sparsematrix.cpp
+  splitstring.cpp
+  stringpool.cpp
+c:\thundersleavessource\sp\src\tier1\splitstring.cpp(55): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\tier1\splitstring.cpp(55): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\splitstring.cpp(73): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+  strtools.cpp
+  tier1.cpp
+  tokenreader.cpp
+  uniqueid.cpp
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(133): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(133): warning C4267: 'return' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(146): warning C4267: 'return' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(241): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(2337): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(2356): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(2357): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(2392): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(2404): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(2435): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(2483): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(2541): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\strtools.cpp(2548): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+  utlbuffer.cpp
+  utlbufferutil.cpp
+c:\thundersleavessource\sp\src\tier1\utlbuffer.cpp(1124): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\tier1\utlbuffer.cpp(1124): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\utlbuffer.cpp(1189): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\utlbuffer.cpp(1345): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\utlbuffer.cpp(1367): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\utlbuffer.cpp(1383): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\utlbuffer.cpp(1655): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\tier1\utlbuffer.cpp(1677): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+  utlstring.cpp
+  utlsymbol.cpp

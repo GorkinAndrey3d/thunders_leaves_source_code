@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  stdafx.cpp
+c:\thundersleavessource\sp\src\public\steam\steamtypes.h(52): error C2371: 'intp' : redefinition; different basic types
+          c:\thundersleavessource\sp\src\public\tier0\platform.h(168) : see declaration of 'intp'
+c:\thundersleavessource\sp\src\public\steam\steamtypes.h(53): error C2371: 'uintp' : redefinition; different basic types
+          c:\thundersleavessource\sp\src\public\tier0\platform.h(169) : see declaration of 'uintp'

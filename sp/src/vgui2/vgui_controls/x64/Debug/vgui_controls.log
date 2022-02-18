@@ -1,0 +1,150 @@
+﻿  Running VPC CRC Check - vgui_controls.vpc
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  AnalogBar.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  AnimatingImagePanel.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  AnimationController.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  BitmapImagePanel.cpp
+c:\thundersleavessource\sp\src\public\tier1\mempool.h(143): error C2338: Compile time assert constraint is not true: sizeof(CUtlMemoryPool) == 48 (AnimationController.cpp)
+          c:\thundersleavessource\sp\src\public\tier1\mempool.h(138) : while compiling class template member function 'CClassMemoryPool<PanelAnimationMap>::CClassMemoryPool(int,int,int)'
+          c:\thundersleavessource\sp\src\vgui2\vgui_controls\animationcontroller.cpp(1507) : see reference to function template instantiation 'CClassMemoryPool<PanelAnimationMap>::CClassMemoryPool(int,int,int)' being compiled
+          c:\thundersleavessource\sp\src\vgui2\vgui_controls\animationcontroller.cpp(1528) : see reference to class template instantiation 'CClassMemoryPool<PanelAnimationMap>' being compiled
+  BuildFactoryHelper.cpp
+  BuildGroup.cpp
+  BuildModeDialog.cpp
+  Button.cpp
+  CheckButton.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\buildmodedialog.cpp(1324): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\buildmodedialog.cpp(1324): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+  CheckButtonList.cpp
+  CircularProgressBar.cpp
+  ComboBox.cpp
+  consoledialog.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\circularprogressbar.cpp(122): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\circularprogressbar.cpp(122): warning C4267: '+=' : conversion from 'size_t' to 'int', possible loss of data
+  ControllerMap.cpp
+  controls.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\consoledialog.cpp(172): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\consoledialog.cpp(172): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\consoledialog.cpp(182): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\consoledialog.cpp(998): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\consoledialog.cpp(1044): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\consoledialog.cpp(1045): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\consoledialog.cpp(1096): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+  CvarToggleCheckButton.cpp
+  DirectorySelectDialog.cpp
+  Divider.cpp
+  EditablePanel.cpp
+  ExpandButton.cpp
+  FileOpenDialog.cpp
+  FileOpenStateMachine.cpp
+  filesystem_helpers.cpp
+  FocusNavGroup.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\fileopendialog.cpp(1620): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\fileopendialog.cpp(1620): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+  Frame.cpp
+  GraphPanel.cpp
+  HTML.cpp
+  Image.cpp
+  ImageList.cpp
+  ImagePanel.cpp
+c:\thundersleavessource\sp\src\public\steam\steamtypes.h(52): error C2371: 'intp' : redefinition; different basic types (HTML.cpp)
+          c:\thundersleavessource\sp\src\public\tier0\platform.h(168) : see declaration of 'intp'
+c:\thundersleavessource\sp\src\public\steam\steamtypes.h(53): error C2371: 'uintp' : redefinition; different basic types (HTML.cpp)
+          c:\thundersleavessource\sp\src\public\tier0\platform.h(169) : see declaration of 'uintp'
+  InputDialog.cpp
+  KeyBindingHelpDialog.cpp
+  KeyBoardEditorDialog.cpp
+  KeyRepeat.cpp
+  Label.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\keybindinghelpdialog.cpp(216): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\keybindinghelpdialog.cpp(216): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\keybindinghelpdialog.cpp(220): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\keyboardeditordialog.cpp(30): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\keyboardeditordialog.cpp(30): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\keyboardeditordialog.cpp(568): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\keyboardeditordialog.cpp(572): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+  ListPanel.cpp
+  ListViewPanel.cpp
+c:\thundersleavessource\sp\src\public\steam\steamtypes.h(52): error C2371: 'intp' : redefinition; different basic types (KeyRepeat.cpp)
+          c:\thundersleavessource\sp\src\public\tier0\platform.h(168) : see declaration of 'intp'
+c:\thundersleavessource\sp\src\public\steam\steamtypes.h(53): error C2371: 'uintp' : redefinition; different basic types (KeyRepeat.cpp)
+          c:\thundersleavessource\sp\src\public\tier0\platform.h(169) : see declaration of 'uintp'
+  Menu.cpp
+  MenuBar.cpp
+  MenuButton.cpp
+  MenuItem.cpp
+c:\thundersleavessource\sp\src\public\steam\steamtypes.h(52): error C2371: 'intp' : redefinition; different basic types (Menu.cpp)
+          c:\thundersleavessource\sp\src\public\tier0\platform.h(168) : see declaration of 'intp'
+c:\thundersleavessource\sp\src\public\steam\steamtypes.h(53): error C2371: 'uintp' : redefinition; different basic types (Menu.cpp)
+          c:\thundersleavessource\sp\src\public\tier0\platform.h(169) : see declaration of 'uintp'
+  MessageBox.cpp
+  MessageDialog.cpp
+  Panel.cpp
+  PanelListPanel.cpp
+  PerforceFileExplorer.cpp
+  PerforceFileList.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\panel.cpp(61): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\panel.cpp(61): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+  perforcefilelistframe.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\panel.cpp(7444): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+  ProgressBar.cpp
+  ProgressBox.cpp
+  PropertyDialog.cpp
+  PropertyPage.cpp
+  PropertySheet.cpp
+  QueryBox.cpp
+  RadioButton.cpp
+  RichText.cpp
+  RotatingProgressBar.cpp
+  savedocumentquery.cpp
+  ScalableImagePanel.cpp
+c:\thundersleavessource\sp\src\public\steam\steamtypes.h(52): error C2371: 'intp' : redefinition; different basic types (RichText.cpp)
+          c:\thundersleavessource\sp\src\public\tier0\platform.h(168) : see declaration of 'intp'
+c:\thundersleavessource\sp\src\public\steam\steamtypes.h(53): error C2371: 'uintp' : redefinition; different basic types (RichText.cpp)
+          c:\thundersleavessource\sp\src\public\tier0\platform.h(169) : see declaration of 'uintp'
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\richtext.cpp(392): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\richtext.cpp(397): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\richtext.cpp(448): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\rotatingprogressbar.cpp(127): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\rotatingprogressbar.cpp(127): warning C4267: '+=' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\richtext.cpp(2050): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+  ScrollableEditablePanel.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\scalableimagepanel.cpp(73): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\scalableimagepanel.cpp(73): warning C4267: '+=' : conversion from 'size_t' to 'int', possible loss of data
+  ScrollBar.cpp
+  ScrollBarSlider.cpp
+  SectionedListPanel.cpp
+  Slider.cpp
+  Splitter.cpp
+  subrectimage.cpp
+  TextEntry.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\subrectimage.cpp(38): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\subrectimage.cpp(38): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+  TextImage.cpp
+  ToggleButton.cpp
+  Tooltip.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\textentry.cpp(273): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\textentry.cpp(273): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\textentry.cpp(291): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\textentry.cpp(674): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\textentry.cpp(4229): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\textentry.cpp(4234): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\textentry.cpp(4244): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\textentry.cpp(4249): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\textimage.cpp(502): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\textimage.cpp(502): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+  ToolWindow.cpp
+  TreeView.cpp
+  TreeViewListControl.cpp
+  URLLabel.cpp
+  vgui_key_translation.cpp
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\treeviewlistcontrol.cpp(312): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\treeviewlistcontrol.cpp(312): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\urllabel.cpp(72): error C2220: warning treated as error - no 'object' file generated
+c:\thundersleavessource\sp\src\vgui2\vgui_controls\urllabel.cpp(72): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+  WizardPanel.cpp
+  WizardSubPanel.cpp
